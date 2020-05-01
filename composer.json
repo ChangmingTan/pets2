@@ -1,0 +1,16 @@
+{
+  "name": "ctangree/328/pets",
+  "authors": [
+    {
+      "name": "Changming Tan",
+      "email": "ctan9@mail.greenriver.edu"
+    },
+    {
+      "name": "Austin Parker",
+      "email": "aparker24@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
