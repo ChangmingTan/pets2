@@ -17,6 +17,10 @@ $f3->route('GET /', function () {
     echo $view->render('views/pet-home.html');
 });
 
+//Order route
+$f3->route('GET|POST /order', function ($f3) {
+    echo "Order Page";
+});
 
 //run f3
 $f3->run();
